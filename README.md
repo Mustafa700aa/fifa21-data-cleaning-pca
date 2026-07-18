@@ -7,7 +7,7 @@ This repository documents a professional, production-grade data science pipeline
 ## 📂 Project Directory Structure
 All relevant files are located within the **Project1_dm** directory:
 * **[SourceCode.ipynb](Untitled12.ipynb)**: The primary Jupyter Notebook containing the end-to-end Python pipeline, analysis, visualizations, and interactive plots.
-* **[untitled12.py](untitled12.py)**: The standalone Python script compiled from the notebook.
+* **[untitled12.py](SourceCode.py)**: The standalone Python script compiled from the notebook.
 * **[fifa21_raw_data_v2.csv](fifa21_raw_data_v2.csv)**: The raw, unprocessed source dataset containing player profiles.
 * **[FIFA 21 Player Dataset Analysis Report.pdf](FIFA%2021%20Player%20Dataset%20Analysis%20Report.pdf)**: The comprehensive final analytical report of the project.
 
